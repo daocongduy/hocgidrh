@@ -15,3 +15,4 @@ document.getElementById("actionButton").addEventListener("click", function () {
     document.body.appendChild(img);
   }
 });
+  
